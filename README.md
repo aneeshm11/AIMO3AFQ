@@ -135,9 +135,9 @@ Solving mode: Tool integrated reasoning mode
 
 The activation aware fusion is a simple yet effective to smartly generate new math problems and aims to solve 2 main problems. Getting new data which the current open weight models might have not seen in their training data and to generate problems which have increased difficulty. The code setup used to plug the data in and to generate the fused questions, their hints and solutions is released in the below repo. The repo has code to do inference on the OpenMath and NuminaMath datasets mentioned above. The TIR code is not included in the repo as it is based on the highest scoring public notebook. The data is just swapped to use NuminaMath and the OpenMath data. Details regarding the dataset files, their structure and usage can be found in the ```README.md``` file found in the dataset repo.
 
-```Code Repo: ```
+```Code Repo:```
 
-Coming in a few days
+https://github.com/aneeshm11/AIMO3AFQ
 
 ```Kaggle Dataset Repo: ```
 
